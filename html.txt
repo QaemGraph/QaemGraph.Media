@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>قائم گراف</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="icon" href="QaemGraph.Media/qq.png" type="image/x-icon">
+    <link rel="shortcut icon" href="QaemGraph.Media/qq.png" type="image/x-icon">
+
 
     <style>
         body {
@@ -13,8 +16,12 @@
             font-family: 'morabba', sans-serif;
             background-color: #e0edff;
             animation: fadeIn ease 3s;
-        }
-       
+
+   @font-face {
+    font-family: 'MyFont';
+    src: url('C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/مربع') format('ttf');
+}
+
 
 @keyframes fadeIn {
     0% { opacity: 0; }
@@ -80,7 +87,7 @@
         }
 
         #banner {
-            background: url('C:\Users\Aftab Shargh\Desktop\QaemGraph.Media\2بنر سایت.png.png') center/cover no-repeat;
+            background: url('C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/2بنر سایت.png.png') center/cover no-repeat;
             height: 300px;
             position: relative;
             margin-top: 0px;
@@ -234,7 +241,10 @@
         <a id="appIcon" class="icon" href="https://harfeto.timefriend.net/17091079546501"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/ناشناس.png"></a>
         <a id="rubikaIcon" class="icon" href="https://rubika.ir/QaemGraph"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/minimal.png.png" alt="Rubika Icon"></a>
         <a id="contactIcon" class="icon" href="tel:+09156045863"><img src="C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/تلفن.png"></a>
+        
     </div>
+       <link rel="icon" href="/favicon.ico" type="image/x-icon">
+       <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <div id="banner"></div>
 
@@ -281,6 +291,9 @@
        
         <!-- مثال برای ادامه دادن -->
     </div>
+       <link rel="icon" href="QaemGraph.Media/qq.png" type="image/x-icon">
+       <link rel="shortcut icon" href="QaemGraph.Media/qq.png" type="image/x-icon">
+
 
 <!-- افزوده شده: بخش نمونه کارهای بیشتر -->
         <div id="moreSampleWorks">
