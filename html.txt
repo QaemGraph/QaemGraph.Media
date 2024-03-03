@@ -10,7 +10,7 @@
     <style>
         body {
             margin: 0;
-            font-family: 'morabba', sans-serif;
+            font-family: 'Vazir', sans-serif;
             background-color: #e0edff;
         }
        body {
@@ -21,6 +21,21 @@
     0% { opacity: 0; }
     100% { opacity: 1; }
 }
+
+
+@font-face {
+    font-family: myFont;
+    src: url(fonts/font.woff) format('woff');
+}
+
+@font-face {
+   font-family: "CustomFont";
+   src: url("fonts/CustomFont.eot");
+   src: url("fonts/CustomFont.woff") format("woff"),
+   url("fonts/CustomFont.otf") format("opentype"),
+   url("fonts/CustomFont.svg") format("svg");
+}
+
 
 
         #topBar {
