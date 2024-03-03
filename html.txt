@@ -10,7 +10,11 @@
     <style>
         body {
             margin: 0;
+<<<<<<< HEAD
             font-family: 'Vazir', sans-serif;
+=======
+            font-family: 'vazir', sans-serif;
+>>>>>>> 768f6d8e9ad8e151b6ad41f3aaa393b8b4f99c1c
             background-color: #e0edff;
         }
        body {
