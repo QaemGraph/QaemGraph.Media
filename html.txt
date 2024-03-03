@@ -10,7 +10,7 @@
     <style>
         body {
             margin: 0;
-            font-family: 'morabba', sans-serif;
+            font-family: 'vazir', sans-serif;
             background-color: #e0edff;
         }
        body {
