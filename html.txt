@@ -19,7 +19,7 @@
 
    @font-face {
     font-family: 'MyFont';
-    src: url('C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/مربع') format('ttf');
+    src: url('مربع') format('ttf');
 }
 
 
@@ -87,7 +87,7 @@
         }
 
         #banner {
-            background: url('2بنر سایت.png.png') center/cover no-repeat;
+            background: <img src='2بنر سایت.png.png'/> 
             height: 300px;
             position: relative;
             margin-top: 0px;
