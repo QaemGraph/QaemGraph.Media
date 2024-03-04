@@ -87,7 +87,7 @@
         }
 
         #banner {
-            background: <img src='2بنر سایت.png.png'/> 
+            background: img src=2بنر سایت.png.png; 
             height: 300px;
             position: relative;
             margin-top: 0px;
