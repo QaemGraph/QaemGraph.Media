@@ -87,7 +87,7 @@
         }
 
         #banner {
-            background: url('C:/Users/Aftab Shargh/Desktop/QaemGraph.Media/2بنر سایت.png.png') center/cover no-repeat;
+            background: url('2بنر سایت.png.png') center/cover no-repeat;
             height: 300px;
             position: relative;
             margin-top: 0px;
